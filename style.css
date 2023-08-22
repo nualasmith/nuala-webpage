@@ -1,0 +1,73 @@
+.profile {
+    border-radius: 50%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+h2 {
+    color: #001854;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 0px;
+}
+
+.intro {
+    width: 64%;
+    margin: auto;
+    color: #001854;
+    font-family: Source Sans Pro;
+    font-size: 1.3rem;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.strengthheading {
+    padding-bottom: 40px;
+
+}
+.row { 
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    }
+
+.skillsheading {
+    text-align: left;
+    padding-bottom: 10px;
+    color: #001854;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold
+}
+
+.skillsparagraph {
+    text-align: left;
+    font-family: Source Sans Pro;
+    color: #001854;
+    font-size: 1.3rem;
+}
+
+.btn {
+        background: #FADF5A;
+        border-radius: 8px;
+        color: white;
+        font-weight: 100;
+        font-size: x-large;
+        font-family: "Montserrat", sans-serif;
+        --bs--btn-hover-color: #FADF5A;
+        --bs--btn-hover-bg:  #FADF5A; 
+        --bs--btn-hover-border-color: #FADF5A; 
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg:  #FADF5A; 
+}
+
+.bottom-container {
+    background-color: #FADF5A;
+    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-right: 30px ;
+}
+    
